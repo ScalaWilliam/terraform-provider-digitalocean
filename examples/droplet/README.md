@@ -11,5 +11,6 @@ You need to export you DigitalOcean API Token as an environment variable
 
 ## Run this example using:
 
+    terraform init
     terraform plan
     terraform apply 
